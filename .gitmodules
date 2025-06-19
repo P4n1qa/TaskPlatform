@@ -1,0 +1,6 @@
+[submodule "TaskPlatformFront"]
+	path = TaskPlatformFront
+	url = https://github.com/P4n1qa/TaskPlatformFront.git
+[submodule "TaskPlatform"]
+	path = TaskPlatform
+	url = https://github.com/P4n1qa/TaskPlatformAPI.git
